@@ -103,3 +103,8 @@
 
 #### Problem: [Utopian Tree](https://github.com/AMIYAMAITY/Problem-Solving--hackerrank/blob/master/Problem%20Solving/Utopian%20Tree/utopian-tree-English.pdf).
 - Solved function [Click Here](https://github.com/AMIYAMAITY/Problem-Solving--hackerrank/blob/master/Problem%20Solving/Utopian%20Tree/UtopianTree.c).
+
+#### Problem: [Travelling Problem](https://github.com/AMIYAMAITY/Problem-Solving--hackerrank/blob/master/Problem%20Solving/Utopian%20Tree/utopian-tree-English.pdf).
+- Solved function [Click Here](https://github.com/AMIYAMAITY/Problem-Solving--hackerrank/blob/master/Problem%20Solving/Utopian%20Tree/UtopianTree.c).
+
+
